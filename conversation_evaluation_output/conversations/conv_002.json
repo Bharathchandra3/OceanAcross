@@ -1,0 +1,30 @@
+{
+  "conversation_id": "conv_002",
+  "quality_level": "low",
+  "category": "technical_help",
+  "turns": [
+    {
+      "speaker": "user",
+      "content": "help my code broken"
+    },
+    {
+      "speaker": "assistant",
+      "content": "try fix it"
+    },
+    {
+      "speaker": "user",
+      "content": "how?"
+    },
+    {
+      "speaker": "assistant",
+      "content": "idk ask stackoverflow"
+    }
+  ],
+  "description": "Poor technical support conversation",
+  "focus_areas": [
+    "poor_communication",
+    "low_effort",
+    "lack_of_guidance"
+  ],
+  "difficulty_level": "medium"
+}

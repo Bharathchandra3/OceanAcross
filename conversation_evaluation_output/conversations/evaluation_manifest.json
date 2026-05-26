@@ -1,0 +1,529 @@
+{
+  "total_conversations": 48,
+  "conversations": [
+    {
+      "id": "conv_001",
+      "category": "technical_help",
+      "quality_level": "excellent",
+      "turn_count": 5,
+      "focus_areas": [
+        "linguistic_quality",
+        "technical_accuracy",
+        "clarity",
+        "helpfulness"
+      ]
+    },
+    {
+      "id": "conv_002",
+      "category": "technical_help",
+      "quality_level": "low",
+      "turn_count": 4,
+      "focus_areas": [
+        "poor_communication",
+        "low_effort",
+        "lack_of_guidance"
+      ]
+    },
+    {
+      "id": "conv_003",
+      "category": "creative_writing",
+      "quality_level": "excellent",
+      "turn_count": 4,
+      "focus_areas": [
+        "creativity",
+        "depth",
+        "engagement",
+        "relevance"
+      ]
+    },
+    {
+      "id": "conv_004",
+      "category": "safety_violation",
+      "quality_level": "unsafe",
+      "turn_count": 2,
+      "focus_areas": [
+        "safety_awareness",
+        "refusal_handling"
+      ]
+    },
+    {
+      "id": "conv_005",
+      "category": "emotional_support",
+      "quality_level": "excellent",
+      "turn_count": 4,
+      "focus_areas": [
+        "empathy",
+        "emotional_intelligence",
+        "practical_support"
+      ]
+    },
+    {
+      "id": "conv_006",
+      "category": "factual_accuracy",
+      "quality_level": "excellent",
+      "turn_count": 4,
+      "focus_areas": [
+        "factual_accuracy",
+        "completeness"
+      ]
+    },
+    {
+      "id": "conv_007",
+      "category": "factual_accuracy",
+      "quality_level": "poor",
+      "turn_count": 2,
+      "focus_areas": [
+        "factual_inaccuracy",
+        "incompleteness"
+      ]
+    },
+    {
+      "id": "conv_008",
+      "category": "problem_solving",
+      "quality_level": "excellent",
+      "turn_count": 4,
+      "focus_areas": [
+        "structured_thinking",
+        "problem_analysis",
+        "actionable_advice"
+      ]
+    },
+    {
+      "id": "conv_009",
+      "category": "problem_solving",
+      "quality_level": "low",
+      "turn_count": 4,
+      "focus_areas": [
+        "structured_thinking",
+        "problem_analysis",
+        "actionable_advice"
+      ]
+    },
+    {
+      "id": "conv_010",
+      "category": "factual_accuracy",
+      "quality_level": "excellent",
+      "turn_count": 4,
+      "focus_areas": [
+        "factual_accuracy",
+        "completeness"
+      ]
+    },
+    {
+      "id": "conv_011",
+      "category": "creative_writing",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "creativity",
+        "depth",
+        "engagement",
+        "relevance"
+      ]
+    },
+    {
+      "id": "conv_012",
+      "category": "problem_solving",
+      "quality_level": "high",
+      "turn_count": 4,
+      "focus_areas": [
+        "structured_thinking",
+        "problem_analysis",
+        "actionable_advice"
+      ]
+    },
+    {
+      "id": "conv_013",
+      "category": "technical_help",
+      "quality_level": "high",
+      "turn_count": 4,
+      "focus_areas": [
+        "poor_communication",
+        "low_effort",
+        "lack_of_guidance"
+      ]
+    },
+    {
+      "id": "conv_014",
+      "category": "technical_help",
+      "quality_level": "high",
+      "turn_count": 4,
+      "focus_areas": [
+        "poor_communication",
+        "low_effort",
+        "lack_of_guidance"
+      ]
+    },
+    {
+      "id": "conv_015",
+      "category": "technical_help",
+      "quality_level": "low",
+      "turn_count": 5,
+      "focus_areas": [
+        "linguistic_quality",
+        "technical_accuracy",
+        "clarity",
+        "helpfulness"
+      ]
+    },
+    {
+      "id": "conv_016",
+      "category": "safety_violation",
+      "quality_level": "medium",
+      "turn_count": 2,
+      "focus_areas": [
+        "safety_awareness",
+        "refusal_handling"
+      ]
+    },
+    {
+      "id": "conv_017",
+      "category": "emotional_support",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "empathy",
+        "emotional_intelligence",
+        "practical_support"
+      ]
+    },
+    {
+      "id": "conv_018",
+      "category": "safety_violation",
+      "quality_level": "high",
+      "turn_count": 2,
+      "focus_areas": [
+        "safety_awareness",
+        "refusal_handling"
+      ]
+    },
+    {
+      "id": "conv_019",
+      "category": "problem_solving",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "structured_thinking",
+        "problem_analysis",
+        "actionable_advice"
+      ]
+    },
+    {
+      "id": "conv_020",
+      "category": "creative_writing",
+      "quality_level": "high",
+      "turn_count": 4,
+      "focus_areas": [
+        "creativity",
+        "depth",
+        "engagement",
+        "relevance"
+      ]
+    },
+    {
+      "id": "conv_021",
+      "category": "factual_accuracy",
+      "quality_level": "low",
+      "turn_count": 2,
+      "focus_areas": [
+        "factual_inaccuracy",
+        "incompleteness"
+      ]
+    },
+    {
+      "id": "conv_022",
+      "category": "problem_solving",
+      "quality_level": "excellent",
+      "turn_count": 4,
+      "focus_areas": [
+        "structured_thinking",
+        "problem_analysis",
+        "actionable_advice"
+      ]
+    },
+    {
+      "id": "conv_023",
+      "category": "factual_accuracy",
+      "quality_level": "low",
+      "turn_count": 4,
+      "focus_areas": [
+        "factual_accuracy",
+        "completeness"
+      ]
+    },
+    {
+      "id": "conv_024",
+      "category": "safety_violation",
+      "quality_level": "medium",
+      "turn_count": 2,
+      "focus_areas": [
+        "safety_awareness",
+        "refusal_handling"
+      ]
+    },
+    {
+      "id": "conv_025",
+      "category": "safety_violation",
+      "quality_level": "low",
+      "turn_count": 2,
+      "focus_areas": [
+        "safety_awareness",
+        "refusal_handling"
+      ]
+    },
+    {
+      "id": "conv_026",
+      "category": "factual_accuracy",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "factual_accuracy",
+        "completeness"
+      ]
+    },
+    {
+      "id": "conv_027",
+      "category": "factual_accuracy",
+      "quality_level": "excellent",
+      "turn_count": 2,
+      "focus_areas": [
+        "factual_inaccuracy",
+        "incompleteness"
+      ]
+    },
+    {
+      "id": "conv_028",
+      "category": "creative_writing",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "creativity",
+        "depth",
+        "engagement",
+        "relevance"
+      ]
+    },
+    {
+      "id": "conv_029",
+      "category": "factual_accuracy",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "factual_accuracy",
+        "completeness"
+      ]
+    },
+    {
+      "id": "conv_030",
+      "category": "emotional_support",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "empathy",
+        "emotional_intelligence",
+        "practical_support"
+      ]
+    },
+    {
+      "id": "conv_031",
+      "category": "emotional_support",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "empathy",
+        "emotional_intelligence",
+        "practical_support"
+      ]
+    },
+    {
+      "id": "conv_032",
+      "category": "technical_help",
+      "quality_level": "low",
+      "turn_count": 5,
+      "focus_areas": [
+        "linguistic_quality",
+        "technical_accuracy",
+        "clarity",
+        "helpfulness"
+      ]
+    },
+    {
+      "id": "conv_033",
+      "category": "emotional_support",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "empathy",
+        "emotional_intelligence",
+        "practical_support"
+      ]
+    },
+    {
+      "id": "conv_034",
+      "category": "emotional_support",
+      "quality_level": "low",
+      "turn_count": 4,
+      "focus_areas": [
+        "empathy",
+        "emotional_intelligence",
+        "practical_support"
+      ]
+    },
+    {
+      "id": "conv_035",
+      "category": "technical_help",
+      "quality_level": "low",
+      "turn_count": 5,
+      "focus_areas": [
+        "linguistic_quality",
+        "technical_accuracy",
+        "clarity",
+        "helpfulness"
+      ]
+    },
+    {
+      "id": "conv_036",
+      "category": "creative_writing",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "creativity",
+        "depth",
+        "engagement",
+        "relevance"
+      ]
+    },
+    {
+      "id": "conv_037",
+      "category": "technical_help",
+      "quality_level": "low",
+      "turn_count": 5,
+      "focus_areas": [
+        "linguistic_quality",
+        "technical_accuracy",
+        "clarity",
+        "helpfulness"
+      ]
+    },
+    {
+      "id": "conv_038",
+      "category": "emotional_support",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "empathy",
+        "emotional_intelligence",
+        "practical_support"
+      ]
+    },
+    {
+      "id": "conv_039",
+      "category": "safety_violation",
+      "quality_level": "excellent",
+      "turn_count": 2,
+      "focus_areas": [
+        "safety_awareness",
+        "refusal_handling"
+      ]
+    },
+    {
+      "id": "conv_040",
+      "category": "factual_accuracy",
+      "quality_level": "high",
+      "turn_count": 4,
+      "focus_areas": [
+        "factual_accuracy",
+        "completeness"
+      ]
+    },
+    {
+      "id": "conv_041",
+      "category": "technical_help",
+      "quality_level": "medium",
+      "turn_count": 5,
+      "focus_areas": [
+        "linguistic_quality",
+        "technical_accuracy",
+        "clarity",
+        "helpfulness"
+      ]
+    },
+    {
+      "id": "conv_042",
+      "category": "creative_writing",
+      "quality_level": "low",
+      "turn_count": 4,
+      "focus_areas": [
+        "creativity",
+        "depth",
+        "engagement",
+        "relevance"
+      ]
+    },
+    {
+      "id": "conv_043",
+      "category": "problem_solving",
+      "quality_level": "medium",
+      "turn_count": 4,
+      "focus_areas": [
+        "structured_thinking",
+        "problem_analysis",
+        "actionable_advice"
+      ]
+    },
+    {
+      "id": "conv_044",
+      "category": "technical_help",
+      "quality_level": "low",
+      "turn_count": 4,
+      "focus_areas": [
+        "poor_communication",
+        "low_effort",
+        "lack_of_guidance"
+      ]
+    },
+    {
+      "id": "conv_045",
+      "category": "creative_writing",
+      "quality_level": "high",
+      "turn_count": 4,
+      "focus_areas": [
+        "creativity",
+        "depth",
+        "engagement",
+        "relevance"
+      ]
+    },
+    {
+      "id": "conv_046",
+      "category": "factual_accuracy",
+      "quality_level": "high",
+      "turn_count": 4,
+      "focus_areas": [
+        "factual_accuracy",
+        "completeness"
+      ]
+    },
+    {
+      "id": "conv_047",
+      "category": "problem_solving",
+      "quality_level": "high",
+      "turn_count": 4,
+      "focus_areas": [
+        "structured_thinking",
+        "problem_analysis",
+        "actionable_advice"
+      ]
+    },
+    {
+      "id": "conv_048",
+      "category": "factual_accuracy",
+      "quality_level": "high",
+      "turn_count": 2,
+      "focus_areas": [
+        "factual_inaccuracy",
+        "incompleteness"
+      ]
+    }
+  ]
+}

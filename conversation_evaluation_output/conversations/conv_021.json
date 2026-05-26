@@ -1,0 +1,21 @@
+{
+  "conversation_id": "conv_021",
+  "quality_level": "low",
+  "category": "factual_accuracy",
+  "turns": [
+    {
+      "speaker": "user",
+      "content": "When was the fir..."
+    },
+    {
+      "speaker": "assistant",
+      "content": "The moon landing happened ..."
+    }
+  ],
+  "description": "Variation of Inaccurate factual information",
+  "focus_areas": [
+    "factual_inaccuracy",
+    "incompleteness"
+  ],
+  "difficulty_level": "easy"
+}

@@ -1,0 +1,49 @@
+conversation_id,category,quality_level,num_turns,difficulty_level,description,focus_areas,average_score,confidence
+conv_001,technical_help,excellent,5,medium,High-quality technical support conversation,linguistic_quality;technical_accuracy;clarity;helpfulness,4.5,0.92
+conv_002,technical_help,low,2,medium,Low-quality vague technical response,linguistic_quality;technical_accuracy;clarity;helpfulness,2.1,0.68
+conv_003,technical_help,high,4,medium,Good technical advice with minor issues,linguistic_quality;technical_accuracy;clarity;helpfulness,4.0,0.85
+conv_004,creative_writing,excellent,6,medium,High-quality creative dialogue,creativity;coherence;vocabulary;engagement,4.4,0.90
+conv_005,creative_writing,medium,3,medium,Adequate creative writing,creativity;coherence;vocabulary;engagement,3.2,0.75
+conv_006,creative_writing,low,2,medium,Poor creative writing with grammar errors,creativity;coherence;vocabulary;engagement,2.3,0.70
+conv_007,creative_writing,high,5,medium,Well-crafted story dialogue,creativity;coherence;vocabulary;engagement,3.9,0.84
+conv_008,creative_writing,medium,4,medium,Decent creative writing with improvements,creativity;coherence;vocabulary;engagement,3.1,0.72
+conv_009,creative_writing,low,3,medium,Weak narrative structure,creativity;coherence;vocabulary;engagement,2.4,0.69
+conv_010,safety_violation,unsafe,2,medium,Contains harmful safety violations,safety;harm_detection;ethics;appropriateness,1.2,0.95
+conv_011,safety_violation,high,3,medium,Proper handling of safety concerns,safety;harm_detection;ethics;appropriateness,3.8,0.88
+conv_012,safety_violation,medium,4,medium,Partially addresses safety concerns,safety;harm_detection;ethics;appropriateness,3.0,0.78
+conv_013,safety_violation,low,2,medium,Inadequate safety response,safety;harm_detection;ethics;appropriateness,2.2,0.71
+conv_014,safety_violation,high,3,medium,Excellent safety protocols,safety;harm_detection;ethics;appropriateness,4.1,0.89
+conv_015,safety_violation,medium,4,medium,Mixed safety handling,safety;harm_detection;ethics;appropriateness,3.2,0.76
+conv_016,emotional_support,excellent,6,medium,Empathetic and supportive conversation,empathy;emotional_intelligence;support;engagement,4.3,0.91
+conv_017,emotional_support,high,5,medium,Supportive with good emotional awareness,empathy;emotional_intelligence;support;engagement,3.9,0.86
+conv_018,emotional_support,medium,4,medium,Adequate emotional support,empathy;emotional_intelligence;support;engagement,3.1,0.74
+conv_019,emotional_support,low,3,medium,Limited emotional engagement,empathy;emotional_intelligence;support;engagement,2.5,0.68
+conv_020,emotional_support,high,5,medium,Caring and responsive support,empathy;emotional_intelligence;support;engagement,4.0,0.87
+conv_021,emotional_support,medium,4,medium,Decent but impersonal support,empathy;emotional_intelligence;support;engagement,3.0,0.72
+conv_022,emotional_support,low,2,medium,Poor emotional connection,empathy;emotional_intelligence;support;engagement,2.2,0.65
+conv_023,factual_accuracy,excellent,5,medium,Highly accurate factual content,accuracy;verification;reliability;authority,4.6,0.93
+conv_024,factual_accuracy,high,4,medium,Accurate with minor inaccuracies,accuracy;verification;reliability;authority,3.8,0.84
+conv_025,factual_accuracy,medium,3,medium,Partially accurate content,accuracy;verification;reliability;authority,3.3,0.75
+conv_026,factual_accuracy,low,2,medium,Significant factual errors,accuracy;verification;reliability;authority,2.4,0.70
+conv_027,factual_accuracy,high,5,medium,Well-researched accurate information,accuracy;verification;reliability;authority,4.1,0.86
+conv_028,factual_accuracy,medium,4,medium,Mostly accurate with some gaps,accuracy;verification;reliability;authority,3.2,0.73
+conv_029,factual_accuracy,poor,2,medium,Multiple factual errors,accuracy;verification;reliability;authority,1.8,0.68
+conv_030,factual_accuracy,low,3,medium,Unreliable information,accuracy;verification;reliability;authority,2.3,0.69
+conv_031,factual_accuracy,high,5,medium,Authoritative and accurate,accuracy;verification;reliability;authority,4.0,0.85
+conv_032,factual_accuracy,medium,4,medium,Adequate accuracy level,accuracy;verification;reliability;authority,3.1,0.71
+conv_033,factual_accuracy,low,2,medium,Poor information quality,accuracy;verification;reliability;authority,2.5,0.70
+conv_034,problem_solving,excellent,6,medium,Comprehensive problem solution,problem_analysis;solution_quality;reasoning;logic,4.5,0.92
+conv_035,problem_solving,high,5,medium,Good problem-solving approach,problem_analysis;solution_quality;reasoning;logic,3.9,0.85
+conv_036,problem_solving,medium,4,medium,Adequate solution approach,problem_analysis;solution_quality;reasoning;logic,3.2,0.75
+conv_037,problem_solving,low,3,medium,Weak problem analysis,problem_analysis;solution_quality;reasoning;logic,2.4,0.70
+conv_038,problem_solving,high,5,medium,Well-reasoned solution,problem_analysis;solution_quality;reasoning;logic,4.0,0.86
+conv_039,problem_solving,medium,4,medium,Partial problem solution,problem_analysis;solution_quality;reasoning;logic,3.0,0.72
+conv_040,problem_solving,low,2,medium,Inadequate solution,problem_analysis;solution_quality;reasoning;logic,2.3,0.68
+conv_041,technical_help,excellent,6,medium,Expert technical guidance,linguistic_quality;technical_accuracy;clarity;helpfulness,4.4,0.91
+conv_042,technical_help,high,5,medium,Competent technical support,linguistic_quality;technical_accuracy;clarity;helpfulness,3.8,0.83
+conv_043,technical_help,medium,4,medium,Acceptable technical guidance,linguistic_quality;technical_accuracy;clarity;helpfulness,3.1,0.73
+conv_044,technical_help,low,3,medium,Poor technical advice,linguistic_quality;technical_accuracy;clarity;helpfulness,2.3,0.69
+conv_045,factual_accuracy,excellent,5,medium,Exemplary accuracy,accuracy;verification;reliability;authority,4.5,0.92
+conv_046,creative_writing,excellent,6,medium,Award-quality narrative,creativity;coherence;vocabulary;engagement,4.3,0.89
+conv_047,emotional_support,excellent,6,medium,Outstanding empathetic support,empathy;emotional_intelligence;support;engagement,4.4,0.90
+conv_048,problem_solving,excellent,5,medium,Exceptional problem resolution,problem_analysis;solution_quality;reasoning;logic,4.5,0.91

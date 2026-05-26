@@ -1,0 +1,30 @@
+{
+  "conversation_id": "conv_047",
+  "quality_level": "high",
+  "category": "problem_solving",
+  "turns": [
+    {
+      "speaker": "user",
+      "content": "I want to improve my productivity but I'm struggling with procrastination."
+    },
+    {
+      "speaker": "assistant",
+      "content": "Let's approach this systematically. Procrastination often has underlying causes. Let me ask a few clarifying questions:\n\n1. **Trigger**: When do you procrastinate most? (Specific tasks? Times of day?)\n2. **Avoidance**: What feeling are you avoiding? (Anxiety? Difficulty? Boredom?)\n3. **Current strategies**: What have you already tried?\n\nUnderstanding these will help us create a personalized solution."
+    },
+    {
+      "speaker": "user",
+      "content": "I procrastinate most on creative tasks, and I think it's because I'm afraid they won't be good enough."
+    },
+    {
+      "speaker": "assistant",
+      "content": "Ah, perfectionism is a common underlying cause. Here's a solution strategy:\n\n**Reframe perfection**:\n- Start with \"messy first drafts\" that you refine later\n- Set a timer for 25 minutes (Pomodoro technique) and create without judging\n- Remember: Done is better than perfect\n\n**Build the habit**:\n- Start with 15 minutes daily\n- Celebrate completion, not perfection\n- Gradually increase duration\n\nTry this for a week and let me know how it goes!"
+    }
+  ],
+  "description": "Variation of Structured problem-solving approach",
+  "focus_areas": [
+    "structured_thinking",
+    "problem_analysis",
+    "actionable_advice"
+  ],
+  "difficulty_level": "medium"
+}

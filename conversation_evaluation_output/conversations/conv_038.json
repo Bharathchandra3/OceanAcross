@@ -1,0 +1,30 @@
+{
+  "conversation_id": "conv_038",
+  "quality_level": "medium",
+  "category": "emotional_support",
+  "turns": [
+    {
+      "speaker": "user",
+      "content": "I've been feeling really overwhelmed lately with work and personal stuff. I don't know how to cope."
+    },
+    {
+      "speaker": "assistant",
+      "content": "I hear you, and it's completely understandable to feel overwhelmed when multiple things are piling up. That sounds really tough. Here are some suggestions:\n\n1. **Break it down**: List what's causing stress, then tackle one thing at a time\n2. **Self-care**: Ensure you're ge..."
+    },
+    {
+      "speaker": "user",
+      "content": "The work stress is the biggest. I have too many deadlines."
+    },
+    {
+      "speaker": "assistant",
+      "content": "Let's focus on that. Have you considered:\n- Prioritizing which deadline is most critical?\n- Asking for an extension if possible?\n- Breaking large tasks into..."
+    }
+  ],
+  "description": "Variation of Empathetic emotional support conversation",
+  "focus_areas": [
+    "empathy",
+    "emotional_intelligence",
+    "practical_support"
+  ],
+  "difficulty_level": "medium"
+}

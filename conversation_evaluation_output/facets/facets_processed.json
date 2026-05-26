@@ -1,0 +1,4122 @@
+[
+  {
+    "id": 1,
+    "name": "Facets",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 2,
+    "name": "Risktaking",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 3,
+    "name": "Naivety",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 4,
+    "name": "Acidity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 5,
+    "name": "Democratic Leadership",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 6,
+    "name": "Common-sense",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 7,
+    "name": "Hesitation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 8,
+    "name": "Discontentment",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 9,
+    "name": "Overprotectiveness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 10,
+    "name": "Merriness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 11,
+    "name": "Emotionalism",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 12,
+    "name": "Self-improvement",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 13,
+    "name": "Statistical Reasoning",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 14,
+    "name": "Assertiveness and control in relationships",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 15,
+    "name": "Cunningness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 16,
+    "name": "Adventure-Seeking Behavior",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 17,
+    "name": "Compassion Fatigue",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 18,
+    "name": "Moroseness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 19,
+    "name": "Specialist",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 20,
+    "name": "Aloofness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 21,
+    "name": "Genuine",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 22,
+    "name": "Determinedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 23,
+    "name": "HonestyHumility",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 24,
+    "name": "Relationship Building Themes",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 25,
+    "name": "Pure Challenge",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 26,
+    "name": "Numerical Reasoning Subcomponents",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 27,
+    "name": "Openness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 28,
+    "name": "SelfEsteem",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 29,
+    "name": "Comparing alphanumeric data",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 30,
+    "name": "Big-heartedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 31,
+    "name": "Compulsive activities",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 32,
+    "name": "Disrespect",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 33,
+    "name": "FSH level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 34,
+    "name": "Self Perspective",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 35,
+    "name": "Desperation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 36,
+    "name": "Affiliation Motivation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 37,
+    "name": "Anatomy knowledge",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 38,
+    "name": "Passive-Aggressive",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 39,
+    "name": "Presence of Spiritual Pain",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 40,
+    "name": "Role of Spirituality in Community Involvement",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 41,
+    "name": "Structure",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 42,
+    "name": "Eco-tourism trips",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 43,
+    "name": "Chivalrousness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 44,
+    "name": "Pilgrimage participation count",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 45,
+    "name": "Mindfulness facet: Observing",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Observing"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 46,
+    "name": "Submissiveness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 47,
+    "name": "Training-cycle length",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 48,
+    "name": "Sensitiveness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 49,
+    "name": "Negative Affect Frequency",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 50,
+    "name": "Innovation and Creativity Components",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 51,
+    "name": "Achievement Motivation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 52,
+    "name": "Feedback-giving frequency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 53,
+    "name": "Dance-cardio sessions",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 54,
+    "name": "Enthusiasm",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 55,
+    "name": "Psychological construct: Social Desirability tendency",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Social Desirability tendency"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 56,
+    "name": "Inattentiveness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 57,
+    "name": "Unassertiveness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 58,
+    "name": "Decision-making decisiveness",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 59,
+    "name": "Sense-of-coherence score",
+    "category": "FacetCategory.LINGUISTIC",
+    "description": "Evaluation facet for assessing conversation quality on linguistic",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 60,
+    "name": "Justice-mindedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 61,
+    "name": "Subscription count",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 62,
+    "name": "Depression Symptoms",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 63,
+    "name": "Spatial perception",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 64,
+    "name": "Brevity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 65,
+    "name": "Orderliness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 66,
+    "name": "Multiculturalism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 67,
+    "name": "Creative risk-taking tendency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 68,
+    "name": "Inefficiency",
+    "category": "FacetCategory.PRAGMATIC",
+    "description": "Evaluation facet for assessing conversation quality on pragmatic",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 69,
+    "name": "Network basics",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 70,
+    "name": "Alphabetical filing skills",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 71,
+    "name": "Work Styles",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 72,
+    "name": "Character strength: Perseverance",
+    "category": "FacetCategory.PERSONALITY",
+    "description": "Evaluation facet for assessing conversation quality on personality",
+    "subcategories": [
+      "Perseverance"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 73,
+    "name": "Competition",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 74,
+    "name": "Logical Sequence Identification",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 75,
+    "name": "Sustainable-transport usage",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 76,
+    "name": "Hardworking",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 77,
+    "name": "Emotional-intelligence measure: Impulsiveness",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [
+      "Impulsiveness"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 78,
+    "name": "Dishonesty",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 79,
+    "name": "Preferred epistemology",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 80,
+    "name": "Memory for Sounds",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 81,
+    "name": "Sportsmanship rating",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 82,
+    "name": "Immaturity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 83,
+    "name": "Health-literacy level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 84,
+    "name": "Estimating Calculations",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 85,
+    "name": "Depression: Feelings of sadness and hopelessness",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [
+      "Feelings of sadness and hopelessness"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 86,
+    "name": "Synthesis of information",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 87,
+    "name": "Leadership Potential",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 88,
+    "name": "Ethical standards",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 89,
+    "name": "High-spiritedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 90,
+    "name": "Critical reasoning",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 91,
+    "name": "Sleep-disorder diagnosis",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 92,
+    "name": "Listening Skills Subcomponents",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 93,
+    "name": "Collaboration",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 94,
+    "name": "Precision of Movements",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 95,
+    "name": "Social Boldness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 96,
+    "name": "Auditory memory",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 97,
+    "name": "Psychomotor Ability Subcomponents",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 98,
+    "name": "Organized lifestyle",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 99,
+    "name": "Skill-endorsements count",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 100,
+    "name": "Mysteriousness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 101,
+    "name": "Cultural Identity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 102,
+    "name": "Intrinsic Motivation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 103,
+    "name": "Impartial-mindedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 104,
+    "name": "Burnout Symptoms",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 105,
+    "name": "Holiness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 106,
+    "name": "Selfcontrol",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 107,
+    "name": "SelfDirectedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 108,
+    "name": "Encouraging participation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 109,
+    "name": "Impracticalness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 110,
+    "name": "Meeting Deadlines",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 111,
+    "name": "Data Analysis",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 112,
+    "name": "Social Interaction Skills",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 113,
+    "name": "Psychoticism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 114,
+    "name": "Ethical leadership rating",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 115,
+    "name": "Slothfulness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 116,
+    "name": "Happiness",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 117,
+    "name": "Contentment Levels",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 118,
+    "name": "Neuroticism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 119,
+    "name": "Desire for excellence",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 120,
+    "name": "Perceiving",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 121,
+    "name": "Liberalism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 122,
+    "name": "Inversion comfort level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 123,
+    "name": "Affection",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 124,
+    "name": "Numeric Filing Skills",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 125,
+    "name": "Martyrdom",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 126,
+    "name": "Parathyroid-hormone level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 127,
+    "name": "Seeking approval",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 128,
+    "name": "Judging (J)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 129,
+    "name": "Big Five facet Openness \u2013 Artistic Interests",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 130,
+    "name": "Psychological construct: Operant-Learning rate",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Operant-Learning rate"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 131,
+    "name": "Psychological construct: Need for Achievement level",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Need for Achievement level"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 132,
+    "name": "Cantankerousness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 133,
+    "name": "Material properties knowledge",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 134,
+    "name": "Hostility",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 135,
+    "name": "Independence",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 136,
+    "name": "Sufi practice: Sufi retreat attendance count",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Sufi retreat attendance count"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 137,
+    "name": "Chromatin-accessibility score",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 138,
+    "name": "Spiritual virtue: Humility practice index",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Humility practice index"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 139,
+    "name": "I Ching hexagram 36 resonance level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 140,
+    "name": "Well-being component: Engagement",
+    "category": "FacetCategory.PRAGMATIC",
+    "description": "Evaluation facet for assessing conversation quality on pragmatic",
+    "subcategories": [
+      "Engagement"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 141,
+    "name": "Need for social interaction",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 142,
+    "name": "Peer-collaboration hours",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 143,
+    "name": "Arts and Humanities",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 144,
+    "name": "Religious practice: Quran khatam cycles per year",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Quran khatam cycles per year"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 145,
+    "name": "Bah\u00e1\u2019\u00ed spiritual metric: Ridv\u00e1n festival participation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Ridv\u00e1n festival participation"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 146,
+    "name": "Compassion",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 147,
+    "name": "Information Retention",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 148,
+    "name": "Eye-contact duration",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 149,
+    "name": "Self-righteousness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 150,
+    "name": "General Mood and Attitude",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 151,
+    "name": "Serotonin transporter availability",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 152,
+    "name": "Contribution to Group Goals",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 153,
+    "name": "Dignity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 154,
+    "name": "HEXACO Personality Inventory Facets",
+    "category": "FacetCategory.PERSONALITY",
+    "description": "Evaluation facet for assessing conversation quality on personality",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 155,
+    "name": "Evaluating Solutions",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 156,
+    "name": "Input",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 157,
+    "name": "Discreteness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 158,
+    "name": "Energy-healing practice: Reiki sessions / year",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Reiki sessions / year"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 159,
+    "name": "Astrology: Rising sign is Scorpio",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Rising sign is Scorpio"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 160,
+    "name": "Character strength: Social Intelligence",
+    "category": "FacetCategory.PERSONALITY",
+    "description": "Evaluation facet for assessing conversation quality on personality",
+    "subcategories": [
+      "Social Intelligence"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 161,
+    "name": "Bravery",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 162,
+    "name": "Childhood Experiences",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 163,
+    "name": "Data-sharing consent level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 164,
+    "name": "Vision-check frequency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 165,
+    "name": "Physical-violence exposure",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 166,
+    "name": "Macronutrient ratio: fat",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "fat"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 167,
+    "name": "Cooking and Culinary Arts",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 168,
+    "name": "Language use",
+    "category": "FacetCategory.LINGUISTIC",
+    "description": "Evaluation facet for assessing conversation quality on linguistic",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 169,
+    "name": "Dance-style mastery diversity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 170,
+    "name": "Satya Adherence",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 171,
+    "name": "Ethnocentrism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 172,
+    "name": "Emotional Boundaries",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 173,
+    "name": "Creativity in solutions",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 174,
+    "name": "Psychological construct: Hope scale",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Hope scale"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 175,
+    "name": "Practice frequency: Walking meditation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Walking meditation"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 176,
+    "name": "Depression (DEP)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 177,
+    "name": "Understanding Mathematical Concepts",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 178,
+    "name": "Hypomania (Ma)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 179,
+    "name": "Goal-Directed Behavior",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 180,
+    "name": "Depth of Emotional Connections",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 181,
+    "name": "Binding foundations index",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 182,
+    "name": "Ego Dissolution Frequency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 183,
+    "name": "Activator: Turning thoughts into action",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [
+      "Turning thoughts into action"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 184,
+    "name": "Gnostic spiritual metric: Archon meditation frequency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Archon meditation frequency"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 185,
+    "name": "Exemplariness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 186,
+    "name": "Moral and Ethical Parameters",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 187,
+    "name": "Submission",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 188,
+    "name": "Frankness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 189,
+    "name": "Psychological construct: Psychological Safety climate",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [
+      "Psychological Safety climate"
+    ],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 190,
+    "name": "Psychological construct: Self-Compassion total",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [
+      "Self-Compassion total"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 191,
+    "name": "Psychological construct: Executive-Function composite",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Executive-Function composite"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 192,
+    "name": "Rebelliousness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 193,
+    "name": "Volunteer Work",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 194,
+    "name": "Intellect",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 195,
+    "name": "Use of Mathematical Formulas",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 196,
+    "name": "Coarseness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 197,
+    "name": "Behavioral Tendencies and Subcomponents",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 198,
+    "name": "Sensitivity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 199,
+    "name": "Divided Attention Ability",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 200,
+    "name": "Psychological construct: Acculturative Stress score",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Acculturative Stress score"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 201,
+    "name": "Dauntlessness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 202,
+    "name": "Concreteness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 203,
+    "name": "Hysteria (Hy)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 204,
+    "name": "Jewish spiritual metric: Sukkot lulav-shaking days",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Sukkot lulav-shaking days"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 205,
+    "name": "Sentence Structure",
+    "category": "FacetCategory.LINGUISTIC",
+    "description": "Evaluation facet for assessing conversation quality on linguistic",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 206,
+    "name": "Esteem Needs",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 207,
+    "name": "Understanding mechanical concepts",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 208,
+    "name": "Auditory Memory Recall",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 209,
+    "name": "Storytelling proficiency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 210,
+    "name": "Music-lessons years",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 211,
+    "name": "Warmheartedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 212,
+    "name": "Self-effacement",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 213,
+    "name": "Outspokenness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 214,
+    "name": "Sleep-environment temperature",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 215,
+    "name": "Comprehension of spoken information",
+    "category": "FacetCategory.LINGUISTIC",
+    "description": "Evaluation facet for assessing conversation quality on linguistic",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 216,
+    "name": "Blissfulness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 217,
+    "name": "Sequential Memory Recall",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 218,
+    "name": "Withdrawnness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 219,
+    "name": "Hindu spiritual metric: Yoga discipline hours / week",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Yoga discipline hours / week"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 220,
+    "name": "Conservatism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 221,
+    "name": "Adaptability and Flexibility Subcomponents",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 222,
+    "name": "Hindu spiritual metric: Vrata vows observed / year",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Vrata vows observed / year"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 223,
+    "name": "Ardency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 224,
+    "name": "Aesthetic Appreciation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 225,
+    "name": "Transactional Leadership",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 226,
+    "name": "Value orientation: Universalism",
+    "category": "FacetCategory.PERSONALITY",
+    "description": "Evaluation facet for assessing conversation quality on personality",
+    "subcategories": [
+      "Universalism"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 227,
+    "name": "Perseverance",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 228,
+    "name": "Regularity of Self-Reflection",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 229,
+    "name": "Controlling Reactions",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 230,
+    "name": "Psychological construct: Cultural Intelligence \u2013 Behavioral",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Cultural Intelligence \u2013 Behavioral"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 231,
+    "name": "Metabolic Rate (Low or High)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 232,
+    "name": "Dietary Habits",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 233,
+    "name": "Significance: Desire to make an impact",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Desire to make an impact"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 234,
+    "name": "Psychological construct: Resilience-Trait score",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Resilience-Trait score"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 235,
+    "name": "Boredom Susceptibility",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 236,
+    "name": "Psychological construct: Consummatory Pleasure scale",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Consummatory Pleasure scale"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 237,
+    "name": "Leadership Styles and Behaviors",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 238,
+    "name": "I Ching hexagram 5 resonance level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 239,
+    "name": "Macronutrient ratio: carbs",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "carbs"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 240,
+    "name": "Passport-stamps count",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 241,
+    "name": "Local-food sourcing %",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 242,
+    "name": "Patient care orientation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 243,
+    "name": "Soft-skill training hours",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 244,
+    "name": "Graffiti appreciation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 245,
+    "name": "Preference for Home-Cooked vs Restaurant Meals",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 246,
+    "name": "Immune-response age",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 247,
+    "name": "Social-cognition variable: Cognitive Empathy",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [
+      "Cognitive Empathy"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 248,
+    "name": "Kink-interest diversity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 249,
+    "name": "Adaptability and Flexibility",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 250,
+    "name": "Judging Consequences",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 251,
+    "name": "Harmfulness",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 252,
+    "name": "Affinity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 253,
+    "name": "Abasement",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 254,
+    "name": "Chronic pain presence",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 255,
+    "name": "Discernment practice hours / week",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 256,
+    "name": "Initiative",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 257,
+    "name": "Courageousness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 258,
+    "name": "Joyfulness",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 259,
+    "name": "Suspicion",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 260,
+    "name": "Basophil count",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 261,
+    "name": "Attachment avoidance score",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 262,
+    "name": "Time Orientation End Points",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 263,
+    "name": "Brazenness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 264,
+    "name": "Talkativeness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 265,
+    "name": "Equitableness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 266,
+    "name": "Ideas generated/day",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 267,
+    "name": "Originality",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 268,
+    "name": "Fearfulness: Fear of physical dangers",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [
+      "Fear of physical dangers"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 269,
+    "name": "Dance rehearsal hours/week",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 270,
+    "name": "Practice frequency: Mantra meditation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Mantra meditation"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 271,
+    "name": "Public-transport km/week",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 272,
+    "name": "Social Desirability Bias",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 273,
+    "name": "I Ching hexagram 43 resonance level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 274,
+    "name": "Disagreeableness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 275,
+    "name": "Participation in Community Activities",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 276,
+    "name": "Impudence",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 277,
+    "name": "Analogies",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 278,
+    "name": "Clumsiness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 279,
+    "name": "Tendency Toward Compromise or Confrontation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 280,
+    "name": "I Ching hexagram 19 resonance level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 281,
+    "name": "Robotics-interaction frequency",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 282,
+    "name": "Casual lifestyle",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 283,
+    "name": "Collectedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 284,
+    "name": "Reliance on context",
+    "category": "FacetCategory.PRAGMATIC",
+    "description": "Evaluation facet for assessing conversation quality on pragmatic",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 285,
+    "name": "Delegation skills",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 286,
+    "name": "I Ching hexagram 49 resonance level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 287,
+    "name": "Managing emotions",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 288,
+    "name": "Scripture memorization verses",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 289,
+    "name": "Conventional",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 290,
+    "name": "Hindu spiritual metric: Bhagavad-Gita study hours",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Bhagavad-Gita study hours"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 291,
+    "name": "Open-source contributions",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 292,
+    "name": "Psychological construct: Social Conformity tendency",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Social Conformity tendency"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 293,
+    "name": "Individuality",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 294,
+    "name": "I Ching hexagram 22 resonance level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 295,
+    "name": "Attachment style: Secure",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Secure"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 296,
+    "name": "Intelligence Quotient (IQ)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 297,
+    "name": "Blog-subscriber count",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 298,
+    "name": "Non-Verbal Communication Skills",
+    "category": "FacetCategory.LINGUISTIC",
+    "description": "Evaluation facet for assessing conversation quality on linguistic",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 299,
+    "name": "Drug-use history",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 300,
+    "name": "Commute time/day",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 301,
+    "name": "Decision-making speed",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 302,
+    "name": "Psychological construct: Excuse-Making tendency",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Excuse-Making tendency"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 303,
+    "name": "Peer-to-peer lending usage",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 304,
+    "name": "Psychological construct: Eye-Contact avoidance score",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Eye-Contact avoidance score"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 305,
+    "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Faux Pas Recognition accuracy"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 306,
+    "name": "Conscientiousness (C)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 307,
+    "name": "Use of Nature as a Stress Reliever",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 308,
+    "name": "Attitude toward learning",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 309,
+    "name": "Conscientiousness Facets",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 310,
+    "name": "Honesty-humility trait score",
+    "category": "FacetCategory.PERSONALITY",
+    "description": "Evaluation facet for assessing conversation quality on personality",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 311,
+    "name": "Digital-nomad months",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 312,
+    "name": "Religious coping \u2013 Negative",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 313,
+    "name": "Snacking Behavior",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 314,
+    "name": "Aura-color perception",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 315,
+    "name": "Sacred text engagement: Zohar (Kabbalah) study hours",
+    "category": "FacetCategory.PRAGMATIC",
+    "description": "Evaluation facet for assessing conversation quality on pragmatic",
+    "subcategories": [
+      "Zohar (Kabbalah) study hours"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 316,
+    "name": "Motivational Drivers",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 317,
+    "name": "Cloud-backup frequency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 318,
+    "name": "Learning Style",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 319,
+    "name": "Islamic practice: Seerah study hours",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Seerah study hours"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 320,
+    "name": "Safety compliance",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 321,
+    "name": "Sensationalism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 322,
+    "name": "Nationality",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 323,
+    "name": "Drollness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 324,
+    "name": "Cooperation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 325,
+    "name": "Breakfast-skipping frequency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 326,
+    "name": "Sikh spiritual metric: Kirtan participation frequency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Kirtan participation frequency"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 327,
+    "name": "Impulsivity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 328,
+    "name": "Museum visits/year",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 329,
+    "name": "Choir participation years",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 330,
+    "name": "Delegation Ability",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 331,
+    "name": "Kabbalah sephira balance: Tiferet",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Tiferet"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 332,
+    "name": "Desire to influence others",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 333,
+    "name": "Vivacity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 334,
+    "name": "Genialness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 335,
+    "name": "Cognitive measure: Working Memory Index",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Working Memory Index"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 336,
+    "name": "Ethical practices",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 337,
+    "name": "New-Age spiritual metric: Channeling sessions / year",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Channeling sessions / year"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 338,
+    "name": "Civility",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 339,
+    "name": "Sleep Apnea",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 340,
+    "name": "Classiness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 341,
+    "name": "Control over situations",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 342,
+    "name": "Time outdoors/day (h)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 343,
+    "name": "Effeteness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 344,
+    "name": "Polygenic risk: cardiovascular disease",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "cardiovascular disease"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 345,
+    "name": "Psychological construct: Identity Diffusion level",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Identity Diffusion level"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 346,
+    "name": "Learning through movement",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 347,
+    "name": "Caffeine sensitivity gene",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 348,
+    "name": "Hatefulness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 349,
+    "name": "Persistence",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 350,
+    "name": "Psychological construct: Perfectionistic Strivings",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [
+      "Perfectionistic Strivings"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 351,
+    "name": "Wake-time consistency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 352,
+    "name": "Numerical Reasoning",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 353,
+    "name": "Social-cognition variable: Mentalizing network activation",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Mentalizing network activation"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 354,
+    "name": "Patriotism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 355,
+    "name": "Leadership Styles",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 356,
+    "name": "Servility",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 357,
+    "name": "I Ching hexagram 24 resonance level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 358,
+    "name": "Enneagram Personality Types",
+    "category": "FacetCategory.PERSONALITY",
+    "description": "Evaluation facet for assessing conversation quality on personality",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 359,
+    "name": "Stress Recovery Ability",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 360,
+    "name": "Troubleshooting technical issues",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 361,
+    "name": "Defense-mechanism tendency: Introjection",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Introjection"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 362,
+    "name": "Irritability",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 363,
+    "name": "Travel-companions diversity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 364,
+    "name": "Sacred text engagement: Quran surahs memorized",
+    "category": "FacetCategory.PRAGMATIC",
+    "description": "Evaluation facet for assessing conversation quality on pragmatic",
+    "subcategories": [
+      "Quran surahs memorized"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 365,
+    "name": "Trust in others",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 366,
+    "name": "Gamified-finance-app usage",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 367,
+    "name": "Buddhist practice: Eightfold Path \u2013 Right Intention level",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Eightfold Path \u2013 Right Intention level"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 368,
+    "name": "Caffeine intake (mg/day)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 369,
+    "name": "Comfort with Vulnerability",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 370,
+    "name": "Anticipativeness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 371,
+    "name": "Additional Common Parameters and Their End Points",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 372,
+    "name": "Avoiding",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 373,
+    "name": "Home-security-system presence",
+    "category": "FacetCategory.SAFETY",
+    "description": "Evaluation facet for assessing conversation quality on safety",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 374,
+    "name": "HEXACO domain: Honesty-Humility",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Honesty-Humility"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 375,
+    "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 376,
+    "name": "Decision-Making Confidence",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 377,
+    "name": "Alignment with societal roles",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 378,
+    "name": "Connectedness: Belief in interconnections",
+    "category": "FacetCategory.PERSONALITY",
+    "description": "Evaluation facet for assessing conversation quality on personality",
+    "subcategories": [
+      "Belief in interconnections"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 379,
+    "name": "Quirkiness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 380,
+    "name": "Creative resilience",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 381,
+    "name": "Rapid cognitive processing",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 382,
+    "name": "Cordiality",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 383,
+    "name": "Types of Mindfulness Techniques Used",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 384,
+    "name": "Economic reasoning",
+    "category": "FacetCategory.COGNITIVE",
+    "description": "Evaluation facet for assessing conversation quality on cognitive",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 385,
+    "name": "Conformity",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 386,
+    "name": "Pet-enrichment activities count",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 387,
+    "name": "Aestheticism",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 388,
+    "name": "Type of Support Preferred (Emotional vs. Practical)",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 389,
+    "name": "Mental Arithmetic Speed",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 390,
+    "name": "Patience: Resistance to anger",
+    "category": "FacetCategory.EMOTION",
+    "description": "Evaluation facet for assessing conversation quality on emotion",
+    "subcategories": [
+      "Resistance to anger"
+    ],
+    "priority": "medium",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 391,
+    "name": "Flawlessness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 392,
+    "name": "Self-Efficacy",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 393,
+    "name": "Computer Skills",
+    "category": "FacetCategory.BEHAVIORAL",
+    "description": "Evaluation facet for assessing conversation quality on behavioral",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 394,
+    "name": "Jewish spiritual metric: Shabbat candle-lighting consistency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Shabbat candle-lighting consistency"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 395,
+    "name": "Spelling Accuracy",
+    "category": "FacetCategory.LINGUISTIC",
+    "description": "Evaluation facet for assessing conversation quality on linguistic",
+    "subcategories": [],
+    "priority": "high",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 396,
+    "name": "Sufi practice: Dhikr repetitions / day",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [
+      "Dhikr repetitions / day"
+    ],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 397,
+    "name": "Peacefulness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 398,
+    "name": "Doggedness",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 399,
+    "name": "Decency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  },
+  {
+    "id": 400,
+    "name": "Processed-food frequency",
+    "category": "FacetCategory.UNKNOWN",
+    "description": "Evaluation facet for assessing conversation quality on unknown",
+    "subcategories": [],
+    "priority": "low",
+    "data_type": "ordinal",
+    "applicable_context": "both"
+  }
+]

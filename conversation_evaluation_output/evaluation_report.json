@@ -1,0 +1,42 @@
+{
+  "pipeline_summary": {
+    "facets_total": 400,
+    "conversations_evaluated": 48,
+    "evaluation_timestamp": "2026-05-26T13:03:44.265692"
+  },
+  "facet_coverage": {
+    "total_facets": 400,
+    "total_categories": 8,
+    "categories": {
+      "FacetCategory.UNKNOWN": 296,
+      "FacetCategory.EMOTION": 19,
+      "FacetCategory.COGNITIVE": 30,
+      "FacetCategory.BEHAVIORAL": 27,
+      "FacetCategory.LINGUISTIC": 6,
+      "FacetCategory.PRAGMATIC": 5,
+      "FacetCategory.PERSONALITY": 7,
+      "FacetCategory.SAFETY": 10
+    }
+  },
+  "conversation_categories": {
+    "technical_help": 10,
+    "creative_writing": 7,
+    "safety_violation": 6,
+    "emotional_support": 7,
+    "factual_accuracy": 11,
+    "problem_solving": 7
+  },
+  "quality_distribution": {
+    "excellent": 9,
+    "low": 12,
+    "unsafe": 1,
+    "poor": 1,
+    "medium": 15,
+    "high": 10
+  },
+  "key_metrics": {
+    "total_evaluations": 48,
+    "average_confidence": 0.800740514091907,
+    "scalability_note": "Architecture supports 5000+ facets without redesign"
+  }
+}
